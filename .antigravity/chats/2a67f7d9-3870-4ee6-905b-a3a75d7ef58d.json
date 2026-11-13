@@ -40,6 +40,18 @@
       "created_at": "2026-11-13T05:45:58.668Z",
       "sender": "ios",
       "is_cancelled": false
+    },
+    {
+      "id": "6451ff82-2d97-4cb1-8387-5ca945dad824",
+      "role": "agent",
+      "content": "For a complete beginner in Nepal, the biggest factors are:\n1. **Quick customer support** (someone who actually answers WhatsApp/Viber or the phone when you are stuck).\n2. **Fast KYC & TMS approval** (you don't want to wait 2 weeks just to get login details).\n3. **Quick collateral & payout settlement**.\n\nHere are the best beginner-friendly options:\n\n---\n\n### 1. 🥇 Best Overall for Beginners: **Sani Securities (Broker #42)**\n* **Why it's beginner-friendly:** \n  * They have active **Viber / WhatsApp support** groups where you can message directly if your collateral isn't loading or you have questions about your order.\n  * Fast online account opening (usually verified within 1–2 working days).\n  * Timely payouts to your bank account after selling shares.\n* **TMS Portal:** `https://tms42.nepalstock.com.np`\n\n---\n\n### 2. 🥈 Best for Smooth & Professional Service: **Himalayan Brokerage (Broker #63)** or **Sanima Securities (Broker #68)**\n* **Why they are beginner-friendly:** \n  * These are **commercial bank-backed brokers** (Himalayan Bank and Sanima Bank).\n  * Because they are newer, **their client lines aren't overcrowded yet**. If you call their customer service desk, an executive will actually pick up and guide you step-by-step through the TMS portal.\n* **TMS Portals:** `https://tms63.nepalstock.com.np` / `https://tms68.nepalstock.com.np`\n\n---\n\n### 3. 🥉 Best if You Want In-Person Help: **Vision Securities (Broker #34)**\n* **Why it's beginner-friendly:** \n  * If you prefer walking into an office instead of doing everything online, Vision has branches across major cities in Nepal (Kathmandu, Pokhara, Narayangarh, Butwal, Biratnagar, etc.).\n  * Their branch staff will sit down and help you fill out forms and configure your login.\n* **TMS Portal:** `https://tms34.nepalstock.com.np`\n\n---\n\n### ⚠️ A quick tip on what to avoid as a beginner:\nAvoid the giant high-volume brokers like **Naasa (#58)** as your very first broker. While Naasa is great for seasoned traders doing high turnover, their customer service phone lines are often swamped with thousands of calls daily, which can be frustrating if you need beginner guidance.\n\n---\n\n### What you need ready before you register:\n1. **Demat Number (BOID - 16 digits)** from your bank / MeroShare.\n2. **ConnectIPS account** linked with your bank (this is essential to load trading collateral in 1 minute).\n3. Photo/scans of your **Citizenship (both sides)**, a passport-size photo, and a photo of your signature on white paper.\n\nWould you like a step-by-step walkthrough on how to fill the online TMS registration form?",
+      "status": "completed",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "fde60f43-ec17-423b-be3b-d7179646d292",
+      "created_at": "2026-11-13T05:46:17.873Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }
