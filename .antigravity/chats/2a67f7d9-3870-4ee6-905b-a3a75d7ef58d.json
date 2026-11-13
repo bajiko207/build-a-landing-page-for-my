@@ -16,6 +16,18 @@
       "created_at": "2026-11-13T05:38:54.016Z",
       "sender": "ios",
       "is_cancelled": false
+    },
+    {
+      "id": "63249a04-a60b-493d-8d5f-e8efcb9e98ee",
+      "role": "agent",
+      "content": "Depending on whether you want to trade in the **Nepalese Stock Market (NEPSE)** or **International Markets (Forex / Global Stocks / Crypto)**, here is the breakdown:\n\n---\n\n### 1. Stock Brokers for NEPSE (Legal & Regulated in Nepal)\n\nTo trade shares of companies listed on the Nepal Stock Exchange (NEPSE), you must register with a broker licensed by the **Securities Board of Nepal (SEBON)**. \n\nThe top and most popular brokers by trading volume, digital onboarding, and user base include:\n\n| Broker No. | Broker Name | Known For / Highlights |\n| :--- | :--- | :--- |\n| **#58** | **Naasa Securities** | Highest daily turnover volume, popular with active retail & institutional traders |\n| **#34** | **Vision Securities** | Wide branch presence across Nepal, fast KYC verification |\n| **#42** | **Sani Securities** | Reliable online TMS support and quick collateral approval |\n| **#45** | **Imperial Securities** | High transaction volumes and active customer desk |\n| **#49** | **Online Securities** | Fully digital online registration process |\n| **#63** | **Himalayan Brokerage** | Backed by Himalayan Bank, modern infrastructure |\n| **#62** | **Capital Max Securities** | Active newer broker with responsive customer service |\n\n#### Steps to Start Trading in Nepal:\n1. **Demat & MeroShare Account:** Open a Demat account and MeroShare at any commercial bank or merchant capital (e.g., Nabil Invest, Global IME Capital, NIC Asia Capital).\n2. **Online Broker Registration (TMS):** Go to the TMS portal of your chosen broker (e.g., `https://tms58.nepalstock.com.np` for Broker 58, `https://tms34.nepalstock.com.np` for Broker 34) and click **New Registration**. Fill in your KYC, Demat (BOID), citizenship, and bank details.\n3. **ConnectIPS:** Link your bank account with [ConnectIPS](https://www.connectips.com) to load trading collateral and settle share purchases instantly.\n\n---\n\n### 2. What About International Trading (Forex, US Stocks, Crypto)?\n\n> [!WARNING]\n> **Legal Notice:** Under **Nepal Rastra Bank (NRB)** regulations and the Foreign Exchange (Regulation) Act:\n> - Resident citizens in Nepal are **strictly prohibited** from trading foreign currencies (Forex on platforms like Exness, OctaFX, XM), international stocks, and cryptocurrencies.\n> - Transferring money abroad for speculative investments or using informal channels (such as Hundi or unauthorized digital wallets) is illegal and subject to fines and penalties.\n> - **Only Non-Resident Nepalese (NRNs)** or Nepalese residing and earning legally abroad can use international brokers like **Interactive Brokers (IBKR)**, **Charles Schwab**, or **eToro**.\n\n---\n\n### Which broker should you choose?\n- For active NEPSE day trading and high volume: **Naasa Securities (#58)** or **Vision Securities (#34)**.\n- For ease of online registration and good customer support: **Sani Securities (#42)** or **Himalayan Brokerage (#63)**.\n\nIf you had a specific type of asset in mind (NEPSE stocks, mutual funds, or commodities), let me know!",
+      "status": "completed",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": "c7ebb3a4-0418-426a-98a4-c0f54cc59d53",
+      "created_at": "2026-11-13T05:39:30.092Z",
+      "sender": "macOS",
+      "is_cancelled": false
     }
   ]
 }
