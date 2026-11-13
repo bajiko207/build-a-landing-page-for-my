@@ -28,6 +28,18 @@
       "created_at": "2026-11-13T05:39:30.092Z",
       "sender": "macOS",
       "is_cancelled": false
+    },
+    {
+      "id": "fde60f43-ec17-423b-be3b-d7179646d292",
+      "role": "user",
+      "content": "which one is beginning friendly😅",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-13T05:45:58.668Z",
+      "sender": "ios",
+      "is_cancelled": false
     }
   ]
 }
